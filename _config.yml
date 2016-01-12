@@ -1,0 +1,28 @@
+name: SivaDas
+favicon: null
+layout_spectrum: 0.8043855298310518
+typography_spectrum: 0.4936192485038191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8970938620623201
+  lightness: 0.4707482517696917
+  saturation: 0.9659833842888474
+  rhythmicContrast: 0.35406391485594213
+purpose: []
