@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SivaDas]]></title>
+        <description><![CDATA[SivaDas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 02:04:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Om Namah Sivaya Potri]]></title>
+            <description><![CDATA[<h1>Om Namah Sivaya Potri</h1>]]></description>
+            <link>undefinedom-namah-sivaya-potri/index.html</link>
+            <guid isPermaLink="false">e01225bb-65be-42a1-9461-026dfb10bda4</guid>
+            <pubDate>Wed, 13 Jan 2016 02:04:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
