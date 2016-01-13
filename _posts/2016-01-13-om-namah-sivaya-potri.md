@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T06:16:53.926Z'
-dateModified: '2016-01-13T02:20:12.009Z'
+datePublished: '2016-01-13T06:16:54.759Z'
+dateModified: '2016-01-13T06:16:53.926Z'
 title: Om Namah Sivaya Potri
 author: []
 sourcePath: _posts/2016-01-13-om-namah-sivaya-potri.md
